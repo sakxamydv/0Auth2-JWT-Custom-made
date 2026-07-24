@@ -33,7 +33,7 @@ Make sure you have Python 3.9+ installed.
 Clone the repository and install the dependencies:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/sakxamydv/0Auth2-JWT-Custom-made.git](https://github.com/sakxamydv/0Auth2-JWT-Custom-made.git)
+cd 0Auth2-JWT-Custom-made
 
 pip install fastapi uvicorn pyjwt
