@@ -14,7 +14,7 @@ REGISTERED_CLIENTS = {
     "canva_client_id_123": {
         "client_name": "Canva Design Suite",
         "client_secret": "canva_super_secret_key_456",
-        # Only redirects listed here will be accepted by /authorize
+        # Only redirects listed here will be accepted by /authorize.
         "redirect_uris": [
             "http://localhost:5001/callback",
             "http://127.0.0.1:5001/callback"
